@@ -1,0 +1,303 @@
+Cuticular Protein Name,Species,Phylum,Subphylum,Class,Order,Family,Genus,Protein Family,Function,Reference,DOI
+Aae_CPR100A,Aedes aegypti,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Aedes,CPR RR-1,,Chen et al.,doi.org/10.1016/j.ijbiomac.2024.131704
+Aae_L000085-PA,Aedes aegypti,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Aedes,,,Riaz et al.,doi.org/10.1016/j.aquatox.2012.09.010
+Aae_L004771-PA,Aedes aegypti,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Aedes,,,Riaz et al.,doi.org/10.1016/j.aquatox.2012.09.010
+Aae_L008973-PA,Aedes aegypti,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Aedes,,,Riaz et al.,doi.org/10.1016/j.aquatox.2012.09.010
+Aae_L008980-PA,Aedes aegypti,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Aedes,,,Riaz et al.,doi.org/10.1016/j.aquatox.2012.09.010
+Aae_L008996-PA,Aedes aegypti,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Aedes,,,Riaz et al.,doi.org/10.1016/j.aquatox.2012.09.010
+Aae_L009001-PA,Aedes aegypti,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Aedes,,,Riaz et al.,doi.org/10.1016/j.aquatox.2012.09.010
+Aae_L014769-PA,Aedes aegypti,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Aedes,,,Riaz et al.,doi.org/10.1016/j.aquatox.2012.09.010
+Aae_L015281-PA,Aedes aegypti,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Aedes,,,Riaz et al.,doi.org/10.1016/j.aquatox.2012.09.010
+Aae_PC,Aedes aegypti,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Aedes,CPR RR-2,,Colpitts et al.,doi.org/10.1371/journal.ppat.1002189
+Aae_PC,Aedes aegypti,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Aedes,CPR RR-2,,Huang et al.,doi.org/10.1002/pro.4761
+Aal_Cp19,Aedes albopictus,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Aedes,,,Arnoldi et al. ,DOI: 10.1016/j.cub.2022.06.049
+Ace_CPR2,Apis cerana cerana,Arthropoda,Hexapoda,Insecta,Hymenoptera,Apidae,Apis,CPR RR-1,,Tan et al. ,doi.org/10.1111/imb.12792
+Aga_CPAP3-A1b,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Saizonou et al.,10.1186/s12864-024-10261-x
+Aga_CPAP3-A1b,Anopheles gambiae arabiensis,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Nkya et al.,doi.org/10.1186/1475-2875-13-28
+Aga_CPAP3-A1c,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPAP3-A1c,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Saizonou et al.,10.1186/s12864-024-10261-x
+Aga_CPAP3-B,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Saizonou et al.,10.1186/s12864-024-10261-x
+Aga_CPAP3-C,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Saizonou et al.,10.1186/s12864-024-10261-x
+Aga_CPF3,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPF3,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPF3,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Vannini et al.,doi.org/10.1186/1756-3305-7-24
+Aga_CPF4,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPLCA1,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPLCA2,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPLCG14,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPLCG15,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPLCG15,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Nkya et al.,doi.org/10.1186/s13071-014-0480-z
+Aga_CPLCG3,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Vannini et al.,doi.org/10.1186/1756-3305-7-24
+Aga_CPLCG4,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Nkya et al.,doi.org/10.1186/s13071-014-0480-z
+Aga_CPLCG4,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Vannini et al.,doi.org/10.1186/1756-3305-7-24
+Aga_CPLCG5,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPLCG5,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Nkya et al.,doi.org/10.1186/s13071-014-0480-z
+Aga_CPLCG5,Anopheles gambiae arabiensis,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Nkya et al.,doi.org/10.1186/1475-2875-13-28
+Aga_CPLCP11,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPLCP3,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Saizonou et al.,doi.org/10.1186/s12864-024-10261-x
+Aga_CPLCX1,Anopheles gambiae arabiensis,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Nkya et al.,doi.org/10.1186/1475-2875-13-28
+Aga_CPLCX2,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPLCX3,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR10,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Saizonou et al.,10.1186/s12864-024-10261-x
+Aga_CPR10,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Saizonou et al.,doi.org/10.1186/s12864-024-10261-x
+Aga_CPR106,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR116,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR117,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR120,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR121,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR123,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR124,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR125,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR126,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR127,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR127,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Saizonou et al.,10.1186/s12864-024-10261-x
+Aga_CPR130,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR130,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Saizonou et al.,10.1186/s12864-024-10261-x
+Aga_CPR135,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR140,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR144,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Saizonou et al.,10.1186/s12864-024-10261-x
+Aga_CPR15,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Saizonou et al.,10.1186/s12864-024-10261-x
+Aga_CPR151,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR151,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR16,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR16,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Saizonou et al.,10.1186/s12864-024-10261-x
+Aga_CPR30,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Bonizzoni et al.,doi.org/10.1371/journal.pone.0044607
+Aga_CPR31,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Nkya et al.,doi.org/10.1186/s13071-014-0480-z
+Aga_CPR5,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR58,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR59,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR59,Anopheles gambiae arabiensis,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Nkya et al.,doi.org/10.1186/1475-2875-13-28
+Aga_CPR62,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR70,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR75,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Saizonou et al.,10.1186/s12864-024-10261-x
+Aga_CPR76,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Saizonou et al.,10.1186/s12864-024-10261-x
+Aga_CPR8,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR81,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_CPR81,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Saizonou et al.,10.1186/s12864-024-10261-x
+Aga_CPR9,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPR,,Saizonou et al.,doi.org/10.1186/s12864-024-10261-x
+Aga_P000745-PA,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_P000986-PA,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_P000989-PA,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_P003308-PB,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_P005993-PA,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_P006370-PA,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,,,Balabanidou et al.,doi.org/10.1098/rspb.2019.1091
+Aga_TWDL1,Anopheles gambiae,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPT,,Saizonou et al.,10.1186/s12864-024-10261-x
+Ago_SgAbd2-like,Aphis gossypii,Arthropoda,Hexapoda,Insecta,Hemiptera,Aphididae,Aphis,CPR RR-1,,"Guo, Qu et al.",doi.org/10.1111/1744-7917.13499
+Ame_Twdl1,Apis mellifera,Arthropoda,Hexapoda,Insecta,Hymenoptera,Apidae,Apis,CPT,,Soares et al.,doi.org/10.1371/journal.pone.0020513
+Ame_Twdl2,Apis mellifera,Arthropoda,Hexapoda,Insecta,Hymenoptera,Apidae,Apis,CPT,,Soares et al.,doi.org/10.1371/journal.pone.0020513
+Api_CP62,Acyrthosiphon pisum,Arthropoda,Hexapoda,Insecta,Hemiptera,Aphididae,Acyrthosiphon,CPR,,Ma et al.,doi.org/10.1016/j.ijbiomac.2024.133402
+Api_CP7,Acyrthosiphon pisum,Arthropoda,Hexapoda,Insecta,Hemiptera,Aphididae,Acyrthosiphon,CPR,,Ma et al.,doi.org/10.1016/j.ijbiomac.2024.133402
+Api_Stylin-01,Acyrthosiphon pisum,Arthropoda,Hexapoda,Insecta,Hemiptera,Aphididae,Acyrthosiphon,CPR RR-1,,Fu et al.,doi.org/10.1371/journal.ppat.1013192
+Asi_CPF1,Anopheles sinensis,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anopheles,CPF,,"Li, Gu et al.",doi.org/10.3390/ijms26052182
+Bdo_CPAP3-A1,Bactrocera dorsalis,Arthropoda,Hexapoda,Insecta,Diptera,Tephritidae,Bactrocera,CPAP,,Hou et al.,doi.org/10.1111/1744-7917.12869
+Bdo_CPAP3-B,Bactrocera dorsalis,Arthropoda,Hexapoda,Insecta,Diptera,Tephritidae,Bactrocera,CPAP,,Hou et al.,doi.org/10.1111/1744-7917.12869
+Bdo_CPAP3-D2,Bactrocera dorsalis,Arthropoda,Hexapoda,Insecta,Diptera,Tephritidae,Bactrocera,CPAP,,Hou et al.,doi.org/10.1111/1744-7917.12869
+Bdo_CPAP3-E,Bactrocera dorsalis,Arthropoda,Hexapoda,Insecta,Diptera,Tephritidae,Bactrocera,CPAP,,Hou et al.,doi.org/10.1111/1744-7917.12869
+Bdo_CPAP3-E2,Bactrocera dorsalis,Arthropoda,Hexapoda,Insecta,Diptera,Tephritidae,Bactrocera,CPAP,,Hou et al.,doi.org/10.1111/1744-7917.12869
+Bdo_CPCFC,Bactrocera dorsalis,Arthropoda,Hexapoda,Insecta,Diptera,Tephritidae,Bactrocera,CPCFC,,"Meng, Yuan et al.",doi.org/10.1186/s12915-023-01694-z
+Bge_CPLCP1,Blattella germanica,Arthropoda,Hexapoda,Insecta,Blattodea,Ectobiidae,Blattella,CPLCP,,"Cai, Wang, Liu et al. ",doi.org/10.1016/j.ijbiomac.2023.127642
+Bmo_ASSCP1,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPR RR-2,,"Wang, Xie et al.",doi.org/10.1016/j.actbio.2022.03.043
+Bmo_ASSCP2,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPR RR-2,,"Wang, Xie et al.",doi.org/10.1016/j.actbio.2022.03.043
+Bmo_CPG1,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPG,,Suzuki et al.,doi.org/10.1016/S0965-1748(01)00136-9
+Bmo_CPG13,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPG,,Zheng et al.,doi.org/10.1016/j.pestbp.2022.105081
+Bmo_CPH19,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPH,,"Li, Zhang et al.",doi.org/10.1016/j.ibmb.2025.104476
+Bmo_CPH24,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,low complexity,,"Xiong, Tong et al.",doi.org/10.1534/genetics.117.300300
+Bmo_CPH45,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPH,,"Gan, Zhuo et al. ",doi.org/10.1002/ps.3501
+Bmo_CPH5,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPH,,Zheng et al.,doi.org/10.1016/j.pestbp.2022.105081
+Bmo_CPR129,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,His-rich RR2,,Liu et al. ,doi.org/10.1038/s42003-021-01996-4
+Bmo_CPR152,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,His-rich RR2,,Liu et al. ,doi.org/10.1038/s42003-021-01996-4
+Bmo_CPR2,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPR RR-1,,"Qiao, Xiong, Wang et al.",doi.org/10.1534/genetics.113.158766
+Bmo_CPR57,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,His-rich RR2,,Liu et al. ,doi.org/10.1038/s42003-021-01996-4
+Bmo_CPR8,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPR,,Zheng et al.,doi.org/10.1016/j.pestbp.2022.105081
+Bmo_CPR82,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,His-rich RR2,,Liu et al. ,doi.org/10.1038/s42003-021-01996-4
+Bmo_CPR91,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPR,,Zheng et al.,doi.org/10.1016/j.pestbp.2022.105081
+Bmo_CPT1,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPT,,Liang et al.,doi.org/10.1016/j.ibmb.2014.11.004
+Bmo_CPT2,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPT,,Zheng et al.,doi.org/10.1016/j.pestbp.2022.105081
+Bmo_GRP1,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPT,,Zhong et al.,10.1016/j.ibmb.2005.07.005
+Bmo_GRP2,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPG,,Zhong et al.,10.1016/j.ibmb.2005.07.005
+Bmo_GRP3,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPG,,Zhong et al.,10.1016/j.ibmb.2005.07.005
+Bmo_LCP18,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPR RR-1,,Shofuda et al.,10.1016/s0305-0491(98)10151-7
+Bmo_LSPMP-like,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPAP1,,"Tan, Hu et al.",https://doi.org/10.1002/ps.7156
+Bmo_PCP,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,low complexity,,Nakato et al.,10.1016/0167-4781(92)90007-m
+Bmo_Resilin,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPR RR-2,,Dong et al.,doi.org/10.1111/1744-7917.70002
+Bmo_WCP10,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPR RR-1,,Noji et al.,10.1016/s0965-1748(03)00048-1
+Bmo_WCP2,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPR RR-2,,Nita et al.,10.1016/j.cbpb.2009.02.005
+Bmo_WCP5,Bombyx mori,Arthropoda,Hexapoda,Insecta,Lepidoptera,Bombycidae,Bombyx,CPR RR-2,,Wang et al.,doi.org/10.1016/j.ibmb.2009.06.007
+Bta_CP83,Bemisia tabaci,Arthropoda,Hexapoda,Insecta,Hemiptera,Aleyrodidae,Bemisia,CPR RR-2,structural,He et al.,doi.org/10.1016/j.ijbiomac.2023.123647
+Bta_CP9,Bemisia tabaci,Arthropoda,Hexapoda,Insecta,Hemiptera,Aleyrodidae,Bemisia,CPR RR-1,structural,He et al.,doi.org/10.1016/j.ijbiomac.2023.123647
+Cme_CPG1,Cnaphalocrocis medinalis,Arthropoda,Hexapoda,Insecta,Lepidoptera,Crambidae,Cnaphalocrocis,CPG,,Guo et al.,doi.org/10.1111/imb.12777
+Cme_CPR20,Cnaphalocrocis medinalis,Arthropoda,Hexapoda,Insecta,Lepidoptera,Crambidae,Cnaphalocrocis,CPR,,Guo et al.,doi.org/10.1111/imb.12777
+Cme_Tweedle1,Cnaphalocrocis medinalis,Arthropoda,Hexapoda,Insecta,Lepidoptera,Crambidae,Cnaphalocrocis,CPT,,Guo et al.,doi.org/10.1111/imb.12777
+Cpi_CPLCG5,Culex pipiens pallens,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Culex,CPLCG,,Huang et al. ,doi.org/10.1186/s13071-017-2567-9
+Cpi_CPR47,Culex pipiens pallens,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Culex,CPR RR-2,,Sun et al. ,doi.org/10.1007/s00436-017-5521-z
+Cpi_CPR63,Culex pipiens pallens,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Culex,CPR RR-2,,Sun et al. ,doi.org/10.1007/s00436-017-5521-z
+Cpi_CPR63,Culex pipiens pallens,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Culex,CPR RR-2,,Xu et al. ,doi.org/10.1186/s13071-022-05175-0
+Cpo_CPR100,Cydia pomonella,Arthropoda,Hexapoda,Insecta,Lepidoptera,Tortricidae,Cydia,,,"Li, Ouyang et al.",doi.org/10.1016/j.ecoenv.2023.115852
+Cpo_CPR22,Cydia pomonella,Arthropoda,Hexapoda,Insecta,Lepidoptera,Tortricidae,Cydia,,,"Li, Ouyang et al.",doi.org/10.1016/j.ecoenv.2023.115852
+Cpo_CPR35,Cydia pomonella,Arthropoda,Hexapoda,Insecta,Lepidoptera,Tortricidae,Cydia,,,"Li, Ouyang et al.",doi.org/10.1016/j.ecoenv.2023.115852
+Cpo_CPR67,Cydia pomonella,Arthropoda,Hexapoda,Insecta,Lepidoptera,Tortricidae,Cydia,,,"Li, Ouyang et al.",doi.org/10.1016/j.ecoenv.2023.115852
+Cpo_CPR78,Cydia pomonella,Arthropoda,Hexapoda,Insecta,Lepidoptera,Tortricidae,Cydia,,,"Li, Ouyang et al.",doi.org/10.1016/j.ecoenv.2023.115852
+Dci_CP7,Diaphorina citri,Arthropoda,Hexapoda,Insecta,Hemiptera,Liviidae,Diaphorina,,,"Yu, Xie et al.",doi.org/10.1111/1744-7917.12880
+Dci_CP8,Diaphorina citri,Arthropoda,Hexapoda,Insecta,Hemiptera,Liviidae,Diaphorina,CPR RR-2,,Lu et al.,doi.org/10.1002/ps.8355
+Dme_72Ec,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-2,,Stahl et al.,doi.org/10.1007/s00427-017-0582-7
+Dme_ACP1,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPLCG,,Kozlova et al.,doi.org/10.1002/dvdy.21860
+Dme_ACP65A,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-1,,Bruey-Sedano et al.,10.1002/gene.20150
+Dme_Cpr11A,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-1,mechanical,Tajiri et al. ,doi.org/10.1038/s42003-020-01630-9
+Dme_Cpr23B,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-2,,Minami et al. ,doi.org/10.2108/zs160105
+Dme_Cpr49Ah,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-1,,Minami et al. ,doi.org/10.2108/zs160105
+Dme_Cpr49Ah,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-1,,Adler et al.,doi.org/10.1016/j.ydbio.2013.04.012
+Dme_Cpr66D,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-2,,Stahl et al.,doi.org/10.1007/s00427-017-0582-7
+Dme_Cpr76Bc,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-2,,Sobala and Adler,doi.org/10.1371/journal.pgen.1006100
+Dme_Cpr76Bd,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-2,,Shibata and Kawabata,doi.org/10.1093/jb/mvx059
+Dme_CPR92A,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR2,,Kozlova et al.,doi.org/10.1002/dvdy.21860
+Dme_Cpr97Eb,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR,,Shibata and Kawabata,doi.org/10.1093/jb/mvx059
+Dme_CRYS,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-2,,Karouzou et al.,doi.org/10.1016/j.ibmb.2007.03.007
+Dme_CRYS,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-2,,Janssens and Gehring ,doi.org/10.1006/dbio.1998.9170
+Dme_CRYS,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-2,,Kuraishi et al. ,doi.org/10.1073/pnas.1105994108
+Dme_Dsc73,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,,,Andrew and Baker,doi.org/10.1002/dvdy.21512
+Dme_EDG78E,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-1,,Fetchel et al.,10.1242/dev.106.4.649
+Dme_EDG84A,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-2,,Fetchel et al.,10.1242/dev.106.4.649
+Dme_EDG91,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPG,,Apple and Fristrom,doi.org/10.1016/0012-1606(91)90257-4
+Dme_LCP1,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-1,,Chihara and Kimbrell,doi.org/10.1093/genetics/114.2.393
+Dme_LCP1,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-1,,Chihara and Kimbrell,doi.org/10.1093/genetics/114.2.393
+Dme_LCP3,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-1,,Chihara and Kimbrell,doi.org/10.1093/genetics/114.2.393
+Dme_LCP4,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR RR-1,,Chihara and Kimbrell,doi.org/10.1093/genetics/114.2.393
+Dme_Obst-A,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPAP3,,Tiklová et al.,doi.org/10.1371/journal.pone.0067415
+Dme_Obst-E,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPAP3,,Tajiri et al.,doi.org/10.1371/journal.pgen.1006548
+Dme_Schlaff,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,,,Zuber et al.,doi.org/10.1038/s41598-019-41734-9
+Dme_Schlaff,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,,,Shibata et al.,doi.org/10.1371/journal.pone.0013477
+Dme_Snsl,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,,,"Zuber, Norum et al.",doi.org/10.1016/j.ejcb.2017.12.003
+Dme_TwdlD,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPT,,Guan et al.,doi.org/10.1073/pnas.0607616103
+Dme_Vajk1,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,,,Cinege et al.,doi.org/10.1016/j.ibmb.2017.06.006
+Dme_Vajk4,Drosophila melanogaster,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,,,Cinege et al.,doi.org/10.1016/j.ibmb.2017.06.006
+Dsu_cpr35B,Drosophila suzukii,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR,,Tabuloc et al.,doi.org/10.1038/s41598-024-70037-x
+Dsu_cpr66D,Drosophila suzukii,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPR,,Tabuloc et al.,doi.org/10.1038/s41598-024-70037-x
+Dsu_dusky-like,Drosophila suzukii,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,,,Wang et al.,doi.org/10.1002/ps.7476
+Dsu_Tubby-like,Drosophila suzukii,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,,,Wang et al.,doi.org/10.1002/ps.7476
+Dsu_Twdl,Drosophila suzukii,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPT,,Wang et al.,doi.org/10.1002/ps.7476
+Dsu_TwdlC-like,Drosophila suzukii,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPT,,Wang et al.,doi.org/10.1002/ps.7476
+Dsu_TwdlF,Drosophila suzukii,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPT,,Tabuloc et al.,doi.org/10.1038/s41598-024-70037-x
+Dsu_TwdlJ-like,Drosophila suzukii,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPT,,Wang et al.,doi.org/10.1002/ps.7476
+Dsu_TwdlT-like,Drosophila suzukii,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPT,,Wang et al.,doi.org/10.1002/ps.7476
+Dsu_TwdlW-like,Drosophila suzukii,Arthropoda,Hexapoda,Insecta,Diptera,Drosophilidae,Drosophila,CPT,,Wang et al.,doi.org/10.1002/ps.7476
+Har_LCP17,Helicoverpa armigera,Arthropoda,Hexapoda,Insecta,Lepidoptera,Noctuidae,Helicoverpa,CPR,,Zheng et al. ,doi.org/10.1016/j.pestbp.2024.105775
+Har_SgAbd5,Helicoverpa armigera,Arthropoda,Hexapoda,Insecta,Lepidoptera,Noctuidae,Helicoverpa,CPR,,Zheng et al. ,doi.org/10.1016/j.pestbp.2024.105775
+Hvi_CP3L,Heortia vitessoides,Arthropoda,Hexapoda,Insecta,Lepidoptera,Crambidae,Heortia,,,Wang et al.,doi.org/10.3390/insects15050362
+Iri_ACP10.9,Ixodes ricinus,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Andersen and Roepstorff,doi.org/10.1016/j.ibmb.2005.05.009
+Iri_ACP16.8,Ixodes ricinus,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Andersen and Roepstorff,doi.org/10.1016/j.ibmb.2005.05.009
+Isc_EEC00993.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPAP,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC01924.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC01927.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC01928.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC03470.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC03471.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC04043.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC04044.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC04237.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPAP,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC04674.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC04675.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC07075.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC07402.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPAP,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC08503.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC09165.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC09166.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC09495.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC11064.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC11084.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC12627.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPAP,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC14149.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPR,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Isc_EEC17151.1,Ixodes scapularis,Arthropoda,Chelicerata,Arachnida,Acari,Ixodidae,Ixodes,CPAP,,Mulenga et al.,doi.org/10.1038/s41598-022-24881-4
+Lm_Twdl1,Locusta migratoria,Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,CPT,,"Song, Yang et al.",doi.org/10.1111/1744-7917.12342
+Lmi_Abd-1,Locusta migratoria,Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,CPR RR-1,,"Zhao, Ma, Shao, Jia et al.",doi.org/10.1371/journal.pbio.3003321
+Lmi_Abd-6,Locusta migratoria,Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,CPR RR-1,,"Zhao, Ma, Shao, Jia et al.",doi.org/10.1371/journal.pbio.3003321
+Lmi_ACP7,Locusta migratoria,Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,CPR RR-2,,"Zhao, Gou et al. ",doi.org/10.1016/j.ibmb.2019.103206
+Lmi_CPH-1,Locusta migratoria,Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,CPH,,"Qi, Teng et al. ",10.1016/j.matt.2024.01.020 
+Lmi_MHSP,Locusta migratoria,Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,His-rich RR2,,"Qi, Ding et al.",doi.org/10.1021/acsnano.3c08715
+Lmi_Snsl,Locusta migratoria,Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,,,Liu et al.,doi.org/10.1016/j.ibmb.2025.104314
+Lst_CPR1,Laodelphax striatellus,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Laodelphax,CPR RR-1,,Liu et al.,oi.org/10.1074/mcp.M114.046763
+Lst_NCup,Laodelphax striatellus,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Laodelphax,CPR RR-1,,"Li, Du et al. ",doi.org/10.1080/17429145.2021.1885758
+Mme_CPR14,Microplitis mediator,Arthropoda,Hexapoda,Insecta,Hymenoptera,Braconidae,Microplitis,CPR,,"Volovych, Lin et al.",doi.org/10.1111/1744-7917.12711
+Mme_CPR3,Microplitis mediator,Arthropoda,Hexapoda,Insecta,Hymenoptera,Braconidae,Microplitis,CPR,,"Volovych, Lin et al.",doi.org/10.1111/1744-7917.12711
+Mpe_CP1,Myzus persicae,Arthropoda,Hexapoda,Insecta,Hemiptera,Aphididae,Myzus,CPR RR-2,,Kamangar et al.,doi.org/10.1007/s41348-019-00232-w
+Mpe_CP2,Myzus persicae,Arthropoda,Hexapoda,Insecta,Hemiptera,Aphididae,Myzus,CPR RR-2,,Kamangar et al.,doi.org/10.1007/s41348-019-00232-w
+Mpe_CP2,Myzus persicae,Arthropoda,Hexapoda,Insecta,Hemiptera,Aphididae,Myzus,CPR RR-2,,"Tong, Guo et al.",doi.org/10.1111/pce.70267
+Mpe_CP4,Myzus persicae,Arthropoda,Hexapoda,Insecta,Hemiptera,Aphididae,Myzus,CPR RR-1,,Liang and Gao,doi.org/10.1093/jee/tox025
+Mpe_CP4,Myzus persicae,Arthropoda,Hexapoda,Insecta,Hemiptera,Aphididae,Myzus,CPR RR-1,,"Tong, Guo et al.",doi.org/10.1111/pce.70267
+Mpe_CP5,Myzus persicae,Arthropoda,Hexapoda,Insecta,Hemiptera,Aphididae,Myzus,CPR RR-1,,"Tong, Guo et al.",doi.org/10.1111/pce.70267
+Mpe_Stylin-01,Myzus persicae,Arthropoda,Hexapoda,Insecta,Hemiptera,Aphididae,Myzus,CPR RR-1,,Webster et al.,doi.org/10.1128/jvi.00432-18
+Mse_LCP-14,Manduca sexta,Arthropoda,Hexapoda,Insecta,Lepidoptera,Sphingidae,Manduca,CPR RR-1,,Hiruma et al.,10.1016/0012-1606(91)90429-7
+Mse_LCP16-17,Manduca sexta,Arthropoda,Hexapoda,Insecta,Lepidoptera,Sphingidae,Manduca,CPR RR-1,,Horodyski and Riddiford,10.1016/0012-1606(89)90226-1
+Nlu_CPAP1-E,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPAP1,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_CPAP1-H,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPAP1,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_CPAP1-I,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPAP1,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_CPAP1-K,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPAP1,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_CPAP1-N,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPAP1,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_CPAP3-B,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPAP3,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_CPAP3-C5b,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPAP3,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_CPAP3-D1,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPAP3,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_CPAPn-7,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPAPn,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_CPLCP2,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPLCP,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr10,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr15,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr21L,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,,,"Chen, Jiao et al.",doi.org/10.3390/ijms24032163
+Nlu_Cpr24,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr3,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR RR-1,,Lu et al.,doi.org/10.1111/1744-7917.12937
+Nlu_Cpr3,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr36,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr47,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr51,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr52,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr54,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr56,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr58,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr6,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr61,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr62,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr64,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr69,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr73,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr8,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR RR-1,,Lu et al.,doi.org/10.1111/1744-7917.12937
+Nlu_Cpr8,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr83,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr90,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR RR-2,,Lu et al.,doi.org/10.1111/1744-7917.12937
+Nlu_Cpr90,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_Cpr94,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPR,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Nlu_NlCP21.92,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,,,Lu et al.,doi.org/10.1016/j.ibmb.2018.06.001
+Nlu_TwdlE3,Nilaparvata lugens,Arthropoda,Hexapoda,Insecta,Hemiptera,Delphacidae,Nilaparvata,CPT,,"Pan, Ye et al.",doi/10.1073/pnas.1716951115 
+Pba_CPR-54,Pseudoregma bambucicola,Arthropoda,Hexapoda,Insecta,Hemiptera,Aphididae,Pseudoregma,CPR RR-2,,Li et al.,doi.org/10.1016/j.ibmb.2025.104455
+Pci_CPAP3-E,Panonychus citri,Arthropoda,Chelicerata,Arachnida,Acarida,Tetranychidae,Panonychus,CPAP3,,"Wang, Xin et al.",doi.org/10.1016/j.pestbp.2025.106872
+Pci_CPR16.8,Panonychus citri,Arthropoda,Chelicerata,Arachnida,Acarida,Tetranychidae,Panonychus,CPR RR-2,,Wang et al.,doi.org/10.1007/s10493-025-01029-3
+Pps_CPR1,Pardosa pseudoannulata,Arthropoda,Chelicerata,Arachnida,Araneae,Lycosidae,Pardosa,CPR RR-1,,Li et al.,doi.org/10.1016/j.ibmb.2022.103859
+Pps_CPR10,Pardosa pseudoannulata,Arthropoda,Chelicerata,Arachnida,Araneae,Lycosidae,Pardosa,CPR RR-1,,Li et al.,doi.org/10.1016/j.ibmb.2022.103859
+Pps_CPR12,Pardosa pseudoannulata,Arthropoda,Chelicerata,Arachnida,Araneae,Lycosidae,Pardosa,CPR RR-1,,Li et al. ,DOI: 10.1016/j.ibmb.2022.103859 
+Pps_CPR2,Pardosa pseudoannulata,Arthropoda,Chelicerata,Arachnida,Araneae,Lycosidae,Pardosa,CPR RR-1,,Li et al.,doi.org/10.1016/j.ibmb.2022.103859
+Pps_CPR3,Pardosa pseudoannulata,Arthropoda,Chelicerata,Arachnida,Araneae,Lycosidae,Pardosa,CPR RR-1,,Li et al.,doi.org/10.1016/j.ibmb.2022.103859
+Pps_CPR9,Pardosa pseudoannulata,Arthropoda,Chelicerata,Arachnida,Araneae,Lycosidae,Pardosa,CPR RR-1,,Li et al.,doi.org/10.1016/j.ibmb.2022.103859
+Pxy_LCP-17,Plutella xylostella,Arthropoda,Hexapoda,Insecta,Lepidoptera,Plutellidae,Plutella,,,Barve et al.,doi.org/10.1016/j.cbd.2025.101424
+Sex_CPG316,Spodoptera exigua,Arthropoda,Hexapoda,Insecta,Lepidoptera,Noctuidae,Spodoptera,CPR RR-2,,Jan et al.,doi.org/10.1038/s41598-017-16435-w
+Sex_CPG4855,Spodoptera exigua,Arthropoda,Hexapoda,Insecta,Lepidoptera,Noctuidae,Spodoptera,CPR RR-2,,Jan et al.,doi.org/10.1038/s41598-017-16435-w
+Sex_CPG860,Spodoptera exigua,Arthropoda,Hexapoda,Insecta,Lepidoptera,Noctuidae,Spodoptera,CPR RR-2,,Jan et al.,doi.org/10.1038/s41598-017-16435-w
+Sgr_pro-resilin,Schistocerca gregaria,Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,CPR RR-2,,"Rogers, Cullen et al.",doi.org/10.1073/pnas.241562512
+Sli_CP26,Spodoptera litura,Arthropoda,Hexapoda,Insecta,Lepidoptera,Noctuidae,Spodoptera,CPR RR-2,,"Wang, Yi, Wang et al.",doi.org/10.1016/j.jare.2025.02.027
+Sli_LCP167,Spodoptera litura,Arthropoda,Hexapoda,Insecta,Lepidoptera,Noctuidae,Spodoptera,CPR RR-2,,"Wang, Lu, Hu et al.",doi.org/10.1016/j.pestbp.2024.106002
+Supp info,Apis mellifera,Arthropoda,Hexapoda,Insecta,Hymenoptera,Apidae,Apis,CPR RR-1,,Soares et.al,doi.org/10.1016/j.ibmb.2007.07.014
+Tca_CP30,Tribolium castaneum,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,low complexity,,"Mun, Noh et al. ",doi.org/10.1038/srep10484
+Tca_CP30,Tribolium castaneum,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,low complexity,,Scalet et al. ,doi.org/10.1016/j.actbio.2022.07.059
+Tca_CP63,Tribolium castaneum,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,non-canonical CP,,"Chen, Sasikala-Appukuttan et al. ",doi.org/10.1093/gbe/evac181
+Tca_CPR15,Tribolium castaneum,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,CPR RR-2,,"Chen, Sasikala-Appukuttan et al. ",doi.org/10.1093/gbe/evac181
+Tca_CPR18,Tribolium castaneum,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,CPR RR-2,,Arakane et al. ,doi.org/10.1371/journal.pgen.1002682
+Tca_CPR18,Tribolium castaneum,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,CPR RR-2,,Noh et al. ,doi.org/10.1016/j.ibmb.2014.07.005
+Tca_CPR18,Tribolium castaneum,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,CPR RR-2,,Sirasoonthorn et al.,doi.org/10.1016/j.jip.2021.107674
+Tca_CPR27,Tribolium castaneum,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,CPR RR-2,,Arakane et al. ,doi.org/10.1371/journal.pgen.1002682
+Tca_CPR27,Tribolium castaneum,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,CPR RR-2,,Noh et al. ,doi.org/10.1016/j.ibmb.2014.07.005
+Tca_CPR27,Tribolium castaneum,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,CPR RR-2,,Sirasoonthorn et al.,doi.org/10.1016/j.jip.2021.107674
+Tca_CPR4,Tribolium castaneum,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,CPR RR-1,structural,Noh et al. ,doi.org/10.1371/journal.pgen.1004963
+Tca_CPR4,Tribolium castaneum,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,CPR RR-1,,Sirasoonthorn et al.,doi.org/10.1016/j.jip.2021.107674
+Tca_CPR69,Tribolium castaneum,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,CPR RR-1,,"Xie, Peng et al.",doi.org/10.1111/1744-7917.13038
+Tci_CPR,Tetranychus cinnabarinus,Arthropoda,Chelicerata,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,CPR,,"Zhou, Liu et al.",10.1039/D1EN00521A
+Tci_CPR25,Tetranychus cinnabarinus,Arthropoda,Chelicerata,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,CPR,,"Feng, Zhao, Jiang et al.",DOI: 10.1126/sciadv.ads33
+Tmo_ACP20,Tenebrio molitor,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tenebrio,CPR RR-2,,Bouhin et al.,10.1111/j.1365-2583.1993.tb00128.x
+Tmo_ACP22,Tenebrio molitor,Arthropoda,Hexapoda,Insecta,Coleoptera,Tenebrionidae,Tenebrio,CPR RR-2,,Bouhin et al.,10.1111/j.1365-2583.1993.tb00128.x
+Tpa_A3A-like,Thrips palmi,Arthropoda,Hexapoda,Insecta,Thysanoptera,Thripidae,Thrips,CPR RR-1,,Widana Gamage et al.,doi.org/10.1371/journal.pone.0208538
+Tpa_Abd4-like,Thrips palmi,Arthropoda,Hexapoda,Insecta,Thysanoptera,Thripidae,Thrips,CPR RR-1,,Widana Gamage et al.,doi.org/10.1371/journal.pone.0208538
+Tpa_C1B-like,Thrips palmi,Arthropoda,Hexapoda,Insecta,Thysanoptera,Thripidae,Thrips,CPR RR-1,,Widana Gamage et al.,doi.org/10.1371/journal.pone.0208538
