@@ -6,6 +6,31 @@ st.markdown("""
 We welcome questions, feedback, and collaboration inquiries. Please use the contact form below or reach out to us directly.
 """)
 
+# ---- Direct Contact Information ----
+st.subheader("Curators")
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.markdown("""
+    **Alex Wardale**  
+    *Data Manager and Bioinformatics Lead*  
+    
+    e-mail: `alex.wardale [at] oist.jp`  
+    [LinkedIn](https://www.linkedin.com/in/alex-wardale-a428a6114/)
+    """)
+
+with col2:
+    st.markdown("""
+    **Cédric Finet**  
+    *Group Leader*  
+    
+    e-mail: `cedric.finet [at] oist.jp`  
+    [Website](https://cfinet.github.io/research/index.html)
+    """)
+
+st.markdown("---")
+
 # ---- Contact Form ----
 st.subheader("Send Us a Message")
 
@@ -65,31 +90,6 @@ if contact_submitted:
         st.balloons()
         
         st.info("**For urgent matters**, please contact us directly using the information below.")
-
-st.markdown("---")
-
-# ---- Direct Contact Information ----
-st.subheader("Curators")
-
-col1, col2 = st.columns(2)
-
-with col1:
-    st.markdown("""
-    **Alex Wardale**  
-    *Data Manager and Bioinformatics Lead*  
-    
-    e-mail: `alex.wardale [at] oist.jp`  
-    [LinkedIn](https://www.linkedin.com/in/alex-wardale-a428a6114/)
-    """)
-
-with col2:
-    st.markdown("""
-    **Cédric Finet**  
-    *Group Leader*  
-    
-    e-mail: `cedric.finet [at] oist.jp`  
-    [Website](https://cfinet.github.io/research/index.html)
-    """)
 
 st.markdown("---")
 
