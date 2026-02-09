@@ -21,6 +21,7 @@ Historically, scientists have not had a unified way of naming cuticular proteins
 
 This inconsistency can lead to difficulties in downstream cross-species comparisons.
 
+###
 #### Our Solution
 To avoid misunderstandings and facilitate database searches, we have standardized all protein nomenclature in our database to the following format:
 
@@ -40,16 +41,16 @@ Where:
 | *Myzus persicae* | MpCPR1, mp-cpr1 | **Mpe_CPR1** |
 | *Apis mellifera* | apme_cpr1, AmCPR1 | **Ame_CPR1** |
 
-
+###
 #### Exceptions to Nomenclature
-Seldomly, the three-letter species prefix system can lead to naming conflicts between different species. For example, *Heliothis virescens* and *Heortia vitessoides* would both  generate the same prefix. To avoid ambiguity, the full genus name is added as an additional prefix when such conflicts occur. This ensures that each protein name remains unique and clearly associated with the correct species. Exception example:
+The three-letter species prefix system can lead to naming conflicts between different species. For example, *Heliothis virescens* and *Heortia vitessoides* would both generate the same prefix. To avoid ambiguity, the full genus name is added as an additional prefix when such conflicts occur. This ensures that each protein name remains unique and clearly associated with the correct species. Exception example:
 
 | Species | Standardized Name | New Standadized Name | 
 |---------|------------------|----------------------|
 | *Heliothis virescens* | Hvi_ProteinName | Heliothis_Hvi_ProteinName |
 | *Heortia vitessoides* | Hvi_ProteinName | Heortia_Hvi_ProteinName |
 
-
+###
 #### Important Notes
 
 **We are not attempting to officially rename proteins.** This standardization applies only within our database for consistency and searchability.
@@ -71,7 +72,7 @@ The database is organized chronologically, with newest additions to the database
 | **Protein Family** | Family or group to which the cuticular protein belongs (e.g., CPR, CPAP, CPLC) |
 | **Function** | Biological role or experimentally validated/inferred function |
 
-#### Publication Information
+#### Source Publication Information
 |  | Description |
 |--------|--------------|
 | **Reference** | Source publication that describes the function of the protein (not necessarily the identification of the protein) |
@@ -109,3 +110,9 @@ All submissions are reviewed by our curators before being added to ensure data q
 
 For questions, suggestions, or to report issues, please visit the [**Contact**](/Contact) page.
 """)
+
+# --------------------
+# Footer
+# --------------------
+st.markdown("---")
+st.caption("Cuticulome.db v0.1 | Last updated: February 2026")

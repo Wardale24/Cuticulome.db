@@ -156,4 +156,8 @@ if os.path.exists(pub_csv):
     
     st.plotly_chart(fig_pub, use_container_width=True)
     
+# --------------------
+# Footer
+# --------------------
 st.markdown("---")
+st.caption("Cuticulome.db v0.1 | Last updated: February 2026")

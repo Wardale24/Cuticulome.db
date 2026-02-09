@@ -67,4 +67,8 @@ with col2:
     > Wardale, A. & Finet, C. (2026). Cuticulome.db: A database of function-defined arthropod cuticular proteins (in preparation).
     """)
 
+# --------------------
+# Footer
+# --------------------
 st.markdown("---")
+st.caption("Cuticulome.db v0.1 | Last updated: February 2026")
