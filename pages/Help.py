@@ -41,6 +41,15 @@ Where:
 | *Apis mellifera* | apme_cpr1, AmCPR1 | **Ame_CPR1** |
 
 
+#### Exceptions to Nomenclature
+Seldomly, the three-letter species prefix system can lead to naming conflicts between different species. For example, *Heliothis virescens* and *Heortia vitessoides* would both  generate the same prefix. To avoid ambiguity, the full genus name is added as an additional prefix when such conflicts occur. This ensures that each protein name remains unique and clearly associated with the correct species. Exception example:
+
+| Species | Standardized Name | New Standadized Name | 
+|---------|------------------|----------------------|
+| *Heliothis virescens* | Hvi_ProteinName | Heliothis_Hvi_ProteinName |
+| *Heortia vitessoides* | Hvi_ProteinName | Heortia_Hvi_ProteinName |
+
+
 #### Important Notes
 
 **We are not attempting to officially rename proteins.** This standardization applies only within our database for consistency and searchability.
@@ -56,14 +65,14 @@ Where:
 The database is organized chronologically, with newest additions to the database appearing first.
 
 #### Protein Information
-| Column | Description |
+|  | Description |
 |--------|--------------|
 | **Cuticular Protein** | Standardized name of the cuticular protein (see **Nomenclature** section below for more details) |
 | **Protein Family** | Family or group to which the cuticular protein belongs (e.g., CPR, CPAP, CPLC) |
 | **Function** | Biological role or experimentally validated/inferred function |
 
 #### Publication Information
-| Column | Description |
+|  | Description |
 |--------|--------------|
 | **Reference** | Source publication that describes the function of the protein (not necessarily the identification of the protein) |
 | **DOI** | Digital Object Identifier or URL to the source publication |
