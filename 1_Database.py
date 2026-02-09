@@ -149,7 +149,8 @@ columns_to_show = [
 display_df = filtered_df[columns_to_show]
 
 st.subheader("Filtered Database")
-st.dataframe(display_df.style.hide(axis="index"), use_container_width=True)
+st.dataframe(display_df, use_container_width=True, hide_index=True)
+
 
 # --------------------
 # Export logic
@@ -216,7 +217,7 @@ else:
     zip_bytes = create_zip_export_bytes(export_df)
 
     st.download_button(
-        label="⬇️ Download filtered dataset (CSV + FASTA)",
+        label="⬇️ Download dataset (CSV + FASTA)",
         data=zip_bytes,
         file_name="cuticulome_export.zip",
         mime="application/zip"
@@ -226,5 +227,5 @@ else:
 # Footer
 # --------------------
 st.markdown("---")
-st.caption("Prototype by Alex Wardale")
+st.caption("Cuticulome.db v0.1 | Last updated: February 2026")
 
